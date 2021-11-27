@@ -1,0 +1,14 @@
+/* Fonts Import */
+@import url("./../assets/fonts/style.css");
+
+/* Global Styling */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: AirFactoryRounded Regular;
+}
