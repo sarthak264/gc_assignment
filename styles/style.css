@@ -12,3 +12,11 @@
 body {
   font-family: AirFactoryRounded Regular;
 }
+/* Footer Styling */
+.footer {
+  padding: 0.25rem 0;
+  background-color: #6e8595;
+  text-align: center;
+  color: #fff;
+  font-style: italic;
+}
